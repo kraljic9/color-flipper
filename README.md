@@ -13,6 +13,14 @@
 
 # Project blue print
 
+Files
+
+- index.html
+- hex.html
+- index.css
+- index.js
+- hex.js
+
 HTML
 
 - Nav bar containing title
