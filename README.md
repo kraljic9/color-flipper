@@ -29,3 +29,6 @@ HTML
 - Button used to toggle background color
 
 JS
+
+- Add event listener to button when clicked to change background color and inner text of color span
+- Add function to generate random number
