@@ -27,3 +27,5 @@ HTML
 - Link that will take you from simple html file to Hex file
 - Title describeing the background color
 - Button used to toggle background color
+
+JS
